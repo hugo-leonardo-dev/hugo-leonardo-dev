@@ -5,7 +5,7 @@
 
 ### Hello there! 👋
 
-My name is Hugo Leonardo, i'm a brazilian computer science student currently working with PHP and MySQL on digital point system at the municipal health department in my city (Natal - Rio Grande do Norte). You can find me here:
+My name is Hugo Leonardo, i'm a brazilian computer science student currently working with PHP and MySQL on digital point system at the municipal health department in my city Natal - Rio Grande do Norte. You can find me here:
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584996655946&text=Hello%20Hugo!) 
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hugoleonardo.dev@outlook.com)
@@ -17,7 +17,7 @@ My name is Hugo Leonardo, i'm a brazilian computer science student currently wor
    
 In my free time I love play and study guitar, play some indie video-games (have you played To the Moon? PLEASE, PLAY THIS GAME!) and listen psytrance (yes I play guitar and I LOVE electronic music 😅 why not?). I'm also an animal lover and father of a ~~cat~~ black ball called Ozzy. 
 
-#### GitHub Stats
+#### 🔴 GitHub Stats
 
 <div>
    <a href="https://github.com/hugo-leonardo-dev">
@@ -26,11 +26,15 @@ In my free time I love play and study guitar, play some indie video-games (have 
 
 </div>
    
- #### Skills & Tools
+#### 🛠️ Skills & Tools
    
+<div style"display inline_block"> 
+   <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+   <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+   <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+   <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+   <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+   <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
-
-[email]: hugolenardo.dev@outlook.com
-[whatsapp]: https://api.whatsapp.com/send?phone=5584996655946&text=Hello%20Hugo!
-[linkedin]: https://www.linkedin.com/in/hugo-leonardo-2a2467210/
-[instagram]: https://www.instagram.com/huguitows/
