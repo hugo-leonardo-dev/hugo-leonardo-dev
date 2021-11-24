@@ -2,8 +2,9 @@
 
 
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugo-leonardo-dev&show_icons=false&theme=radical"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-leonardo-dev&theme=blue-green"/>
+   <a href="https://github.com/hugo-leonardo-dev">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugo-leonardo-dev&show_icons=false&theme=dracula&include_all_comits=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-leonardo-dev&layout=compact&theme=blue-green"/>
 
 </div>
 
