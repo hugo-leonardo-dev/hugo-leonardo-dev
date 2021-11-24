@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
 ![banner](https://user-images.githubusercontent.com/94985416/143295516-00d7cb6a-1ca5-4b4a-80db-df9b316324b4.png)
 
 
@@ -26,11 +28,7 @@ In my free time I love play and study guitar, play some indie video-games (have 
    
  #### Skills & Tools
    
- <div style ="display: inline_block"><br>
- 
-    <img align="center" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    
- </div>
+
 
 [email]: hugolenardo.dev@outlook.com
 [whatsapp]: https://api.whatsapp.com/send?phone=5584996655946&text=Hello%20Hugo!
