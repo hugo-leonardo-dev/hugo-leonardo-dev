@@ -20,7 +20,7 @@ My name is Hugo Leonardo, i'm a brazilian computer science student currently wor
 
 #### 😁 Fun facts:
    
-
+in my free time i love play guitar and listen psytrance (yes i play guitar and i LOVE electronic music 😅). I am also an animal lover and father of a ~~This was mistaken text~~	 black ball  named Ozzy
 
 [email]: hugolenardo.dev@outlook.com
 [whatsapp]: https://api.whatsapp.com/send?phone=5584996655946&text=Hello%20Hugo!
