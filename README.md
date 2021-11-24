@@ -1,13 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/94985416/143295516-00d7cb6a-1ca5-4b4a-80db-df9b316324b4.png)
 
 
-<div>
-   <a href="https://github.com/hugo-leonardo-dev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugo-leonardo-dev&show_icons=false&theme=dracula&include_all_comits=true"/>
-   <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-leonardo-dev&layout=compact&theme=dracula"/>
-
-</div>
-
 ### Hello there! 👋
 
 My name is Hugo Leonardo, i'm a brazilian computer science student currently working with PHP and MySQL on digital point system at the municipal health department in my city (Natal - Rio Grande do Norte). You can find me here:
@@ -20,7 +13,24 @@ My name is Hugo Leonardo, i'm a brazilian computer science student currently wor
 
 #### 😁 Fun facts:
    
-in my free time i love play guitar and listen psytrance (yes i play guitar and i LOVE electronic music 😅). I am also an animal lover and father of a ~~This was mistaken text~~	 black ball  named Ozzy
+In my free time I love play and study guitar, play some indie video-games (have you played To the Moon? PLEASE, PLAY THIS GAME!) and listen psytrance (yes I play guitar and I LOVE electronic music 😅 why not?). I'm also an animal lover and father of a ~~cat~~ black ball called Ozzy. 
+
+#### GitHub Stats
+
+<div>
+   <a href="https://github.com/hugo-leonardo-dev">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugo-leonardo-dev&show_icons=false&theme=dracula&include_all_comits=true"/>
+   <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-leonardo-dev&layout=compact&theme=dracula"/>
+
+</div>
+   
+ #### Skills & Tools
+   
+ <div style ="display: inline_block"><br>
+ 
+    <img align="center" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    
+ </div>
 
 [email]: hugolenardo.dev@outlook.com
 [whatsapp]: https://api.whatsapp.com/send?phone=5584996655946&text=Hello%20Hugo!
