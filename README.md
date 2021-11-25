@@ -21,8 +21,8 @@ In my free time I love to play and study eletric guitar, play some indie video-g
 
 <div>
    <a href="https://github.com/hugo-leonardo-dev">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hugo-leonardo-dev&show_icons=false&theme=dracula&include_all_comits=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-leonardo-dev&layout=compact&theme=dracula"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hugo-leonardo-dev&show_icons=false&theme=dracula&include_all_comits=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-leonardo-dev&layout=compact&theme=dracula"/>
 
 </div>
    
