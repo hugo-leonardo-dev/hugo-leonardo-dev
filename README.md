@@ -15,7 +15,7 @@ My name is Hugo Leonardo, i'm a brazilian computer science student currently wor
 
 #### 😁 Fun facts:
    
-In my free time I love play and study guitar, play some indie video-games (have you played To the Moon? PLEASE, PLAY THIS GAME!) and listen psytrance (yes I play guitar and I LOVE electronic music 😅 why not?). I'm also an animal lover and father of a ~~black ball~~ cat called Ozzy. 
+In my free time I love to play and study eletric guitar, play some indie video-games (have you played To the Moon? PLEASE, PLAY THIS GAME!) and listen psytrance (yes I play guitar and I LOVE electronic music 😅 why not?). I'm also an animal lover and father of a ~~black ball~~ cat called Ozzy. 
 
 #### 🔴 GitHub Stats
 
