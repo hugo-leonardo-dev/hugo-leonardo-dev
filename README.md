@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-![banner](https://user-images.githubusercontent.com/94985416/143295516-00d7cb6a-1ca5-4b4a-80db-df9b316324b4.png)
+![banner](https://drive.google.com/file/d/1XBkz5MfxxZe_vTNTagWTlrF05Gz7ht8D/view?usp=sharing)
 
 
 ### Hello there! 👋
