@@ -5,7 +5,7 @@
 
 ### Hello there! 👋
 
-My name is Hugo Leonardo, i'm a brazilian computer science student currently working with PHP and MySQL on digital point system at the municipal health department in my city Natal - Rio Grande do Norte. You can find me here:
+My name is Hugo Leonardo, i'm a brazilian computer science student currently working with C# specifically with ASP.NET at ELITE Consultores. You can find me here:
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584996655946&text=Hello%20Hugo!) 
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hugoleonardo.dev@outlook.com)
