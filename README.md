@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-![banner]([https://drive.google.com/file/d/1XBkz5MfxxZe_vTNTagWTlrF05Gz7ht8D/view?usp=sharing](https://www.dropbox.com/s/l7hfhj03iixxscl/banner.jpg?dl=0))
-
+![banner](https://www.dropbox.com/s/l7hfhj03iixxscl/banner.jpg?dl=0)
 
 ### Hello there! 👋
 
