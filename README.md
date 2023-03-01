@@ -34,7 +34,8 @@ In my free time i love play and study eletric guitar, play some indie video-game
    <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div>
-   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hugo-leonardo-dev)](https://git.io/streak-stats)
 
+#### 🔥 GitHub Streak
+   
+[![GitHub Streak](https://streak-stats.demolab.com?user=hugo-leonardo-dev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
