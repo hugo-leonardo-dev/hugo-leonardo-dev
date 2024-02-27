@@ -28,7 +28,7 @@ In my free time i love play and study eletric guitar, play some indie video-game
 #### 🛠️ Skills & Tools
    
 <div style"display inline_block"> 
-   <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img align="center" height="30" widht="40" margin="10 10" img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
    <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
    <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
