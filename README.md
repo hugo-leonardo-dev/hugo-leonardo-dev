@@ -8,13 +8,12 @@
 
 </div>
 
-My name is Hugo Leonardo, i'm a brazilian computer science graduated. Currently searching for a job! ~~help me i need a job~~!.  You can find me here:
-<div align="center">
-   [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584996655946&text=Hello%20Hugo!) 
-   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugoleonardo.dev@outlook.com)
-   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-leonardo-dev/)
-   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/longest.wave_/)
-</div>
+My name is Hugo Leonardo, i'm a brazilian computer science graduated. Currently searching for a job! ~~help me i need a job~~!.  You can find me here: 
+
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584996655946&text=Hello%20Hugo!) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugoleonardo.dev@outlook.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-leonardo-dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/longest.wave_/)
 
 #### 😁 Fun facts:
    
