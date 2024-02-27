@@ -3,7 +3,7 @@
 ![banner](https://user-images.githubusercontent.com/94985416/222044343-30b0f789-2ad0-4c9c-9094-cf2a73f41040.jpg)
 
 <p align="center">
-  <img src="https://github.com/hugo-leonardo-dev/hugo-leonardo-dev/blob/main/assets/94985416/c6ddb8fe-debf-4093-ae84-d9c17cc2ea0b.gif" alt="messagif">
+   ![messagif (1) (1)](https://github.com/hugo-leonardo-dev/hugo-leonardo-dev/assets/94985416/c6ddb8fe-debf-4093-ae84-d9c17cc2ea0b)
 </p>
 
 My name is Hugo Leonardo, i'm a brazilian computer science graduated. Currently searching for a job! ~~help me i need a job~~!.  You can find me here:
