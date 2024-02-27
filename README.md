@@ -4,7 +4,7 @@
 
 ![gif](https://github.com/hugo-leonardo-dev/hugo-leonardo-dev/assets/94985416/e7c8736a-7372-4c72-9e0b-b626d9e2bc2d)
 
-div align="center">
+<div align="center">
 
    ![gif](https://github.com/hugo-leonardo-dev/hugo-leonardo-dev/assets/94985416/e7c8736a-7372-4c72-9e0b-b626d9e2bc2d)
 
