@@ -19,15 +19,6 @@ My name is Hugo Leonardo, i'm a brazilian computer science graduated. Currently 
    
 In my free time i love play and study eletric guitar, play some indie video-games (have you played To the Moon? PLEASE, PLAY THIS GAME!). I'm also an animal lover and father of a ~~black ball~~ cat called Ozzy. 
 
-#### 🔴 GitHub Stats
-
-<div>
-   <a href="https://github.com/hugo-leonardo-dev">
-   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hugo-leonardo-dev&show_icons=false&theme=dracula&include_all_comits=true"/>
-   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-leonardo-dev&layout=compact&theme=dracula"/>
-
-</div>
-   
 #### 🛠️ Skills & Tools
    
 <div style"display inline_block"> 
@@ -38,12 +29,22 @@ In my free time i love play and study eletric guitar, play some indie video-game
    <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-   <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
    <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
    <img align="center" height="30" widht="40" img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
-#### 🔥 GitHub Streak
+#### 🔴 GitHub Stats
+
+<div>
+   <a href="https://github.com/hugo-leonardo-dev">
+   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hugo-leonardo-dev&show_icons=false&theme=dracula&include_all_comits=true"/>
+   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-leonardo-dev&layout=compact&theme=dracula"/>
+
+</div>
    
-[![GitHub Streak](https://streak-stats.demolab.com?user=hugo-leonardo-dev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+<!-- #### 🔥 GitHub Streak
+   
+[![GitHub Streak](https://streak-stats.demolab.com?user=hugo-leonardo-dev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
