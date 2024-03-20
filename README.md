@@ -2,11 +2,11 @@
 
 ![banner](https://github.com/hugo-leonardo-dev/hugo-leonardo-dev/assets/94985416/5c2a0b0d-8169-4460-9a04-506b931ff5a3)
 
-<div align="center">
+<!-- <div align="center">
 
    ![gif](https://github.com/hugo-leonardo-dev/hugo-leonardo-dev/assets/94985416/e436f620-946f-4248-837b-9e43c22ef794)
 
-</div>
+</div> !-->
 
 My name is Hugo Leonardo, i'm a brazilian computer science graduated. Currently searching for a job! ~~help me i need a job~~!.  You can find me here: 
 
