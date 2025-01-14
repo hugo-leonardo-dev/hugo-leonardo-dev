@@ -12,9 +12,9 @@ Hi there! 👋 My name is **Hugo Leonardo**, a **Computer Science graduate** fro
 🌟 Passionate about crafting scalable and efficient web solutions.  
 📫 Let's connect! You can find me here:
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584996655946&text=Hello%20Hugo!)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugoleonardo.dev@outlook.com)  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-leonardo-dev/)  
+![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584996655946&text=Hello%20Hugo!) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugoleonardo.dev@outlook.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-leonardo-dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/longest.wave_/)
 
 #### 😁 Fun facts:
@@ -26,7 +26,7 @@ In my free time, I love to:
 
 #### 🛠️ Skills & Tools:
 
-<div style="display: inline-block;">
+<div style"display inline_block"> 
    <img align="center" height="30" width="40" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
    <img align="center" height="30" width="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img align="center" height="30" width="40" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
