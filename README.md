@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-![banner](https://github.com/hugo-leonardo-dev/hugo-leonardo-dev/assets/94985416/5c2a0b0d-8169-4460-9a04-506b931ff5a3)
+<!-- ![banner](https://github.com/hugo-leonardo-dev/hugo-leonardo-dev/assets/94985416/5c2a0b0d-8169-4460-9a04-506b931ff5a3) -->
 
 Hi there! 👋 My name is **Hugo Leonardo**, a **Computer Science graduate** from Brazil.
 
